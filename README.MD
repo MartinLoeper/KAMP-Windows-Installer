@@ -1,4 +1,4 @@
-## KAMP Installer for Windows ![Travis](https://img.shields.io/travis/MartinLoeper/KAMP-Windows-Installer.svg) [![Github Releases](https://img.shields.io/github/downloads/MartinLoeper/KAMP-Windows-Installer/latest/total.svg)](https://github.com/MartinLoeper/KAMP-Windows-Installer/releases/latest)
+## KAMP Installer for Windows ![Travis](https://img.shields.io/travis/MartinLoeper/KAMP-Windows-Installer.svg) [![Github Releases](https://img.shields.io/github/downloads/MartinLoeper/KAMP-Windows-Installer/total.svg)](https://github.com/MartinLoeper/KAMP-Windows-Installer/releases/latest)
 
 This is the installer for the KAMP Windows Eclipse Product.
 If you want to download it, please visit the [Releases](https://github.com/MartinLoeper/KAMP-Windows-Installer/releases) page.

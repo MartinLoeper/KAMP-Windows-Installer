@@ -1,2 +1,9 @@
 language: generic
-script: ./scripts/compose.sh
+script: "./scripts/compose.sh"
+deploy:
+  provider: releases
+  api_key:
+    secure: L3znUCYFSwrLyXrot/zwWmmB0cp7NyurLWm7vAtu4b1qUiaUkEAWFDZb+4bR1a4Hv/dYhnOnWU2hoqSXLK6hycBTcZejsGbiFJpxnYqTFkRyR+cTfQEF2IxAUKHJFS0eabWnFysRUgEhxetDbmslJq2jcCmofDp0tV43EdUSEtODzznGdyiJubFKbly3ucsMaiMbOsRLT1DzfOLZt7Pp4/yqABRoPcwLv7dWRbF+gs3gJcp9gPQtcYmJjoAWiZ7TqAQPUB0fc1UvTsud1uOKAhMNagEqj8lJv9h4joKPjq5jwFmBGb2Bqrpmhf+acJT30DIJaA0Ia7+Ek43ZLiLmrEU1dcKwMBnAybEopup7if/utjoa1z5yZdVdrmOxVLd/KfJQ5tgXjth5awWvBv2S/s+WAW/SwM325cE2Eq0OalH1KyAVHrgT5asi45c7lJ8ERQOB+lYgohC1Otk8j4O0i6PqCXUG4EOnZCeNr4EDh5Dti5FAKaZmA1FtWNBG0GATv+YRQeTrbjpuKnhX4gTkWWlSDDU0ewtgVfR3rG3CHjTaTbZaz9/vPTSljli+i0ptjJMrdCJFnlDKMWkATcDx9gtDG788cGfJ9H9IbT5+ePty3P5sGF7DabCz7IN7ky+fmKiNtm51sgupLMzGwn+V6HLNXCzOrOPWS7XzBcgZ5eA=
+  file: kamp-eclipse-inst-64.exe
+  on:
+    repo: MartinLoeper/KAMP-Windows-Installer

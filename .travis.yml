@@ -8,3 +8,7 @@ deploy:
   skip_cleanup: true
   on:
     repo: MartinLoeper/KAMP-Windows-Installer
+
+branches:
+  only:
+  - master

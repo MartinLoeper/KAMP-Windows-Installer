@@ -12,7 +12,7 @@ This is the installer for the KAMP Windows Eclipse Product.
 
 ### Issues
 If you experience any issues with the installer, feel free to create an issue.   
-In the meantime, you may use the original Oomph Installer as explained [here](https://github.com/MartinLoeper/KAMP-Installer-Index).
+In the meantime, you may use the original Oomph Installer as explained [here](https://github.com/MartinLoeper/KAMP-Installer-Index#using-the-official-oomph-installer).
 
 ### Reference
 

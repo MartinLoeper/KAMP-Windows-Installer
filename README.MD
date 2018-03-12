@@ -10,6 +10,10 @@ This is the installer for the KAMP Windows Eclipse Product.
 - Linux 64-bit: https://github.com/MartinLoeper/KAMP-Linux-Installer
 - Linux 32-bit: https://github.com/MartinLoeper/KAMP-Linux-32bit-Installer
 
+### Issues
+If you experience any issues with the installer, feel free to create an issue.   
+In the meantime, you may use the original Oomph Installer as explained [here](https://github.com/MartinLoeper/KAMP-Installer-Index).
+
 ### Reference
 
 KAMP Windows Installer is a customized version of the [standard Oomph Installer for Windows](http://www.eclipse.org/downloads/download.php?file=/oomph/products/eclipse-inst-win32.exe&mirror_id=17).   
